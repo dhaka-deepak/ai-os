@@ -1,1 +1,27 @@
+node_modules/
 
+dist/
+
+build/
+
+__pycache__/
+
+venv/
+
+.env
+
+.idea/
+
+.vscode/
+
+*.pyc
+
+*.db
+
+*.sqlite3
+
+coverage/
+
+logs/
+
+*.log
