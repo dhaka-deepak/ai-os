@@ -102,7 +102,7 @@ memory-service/
 Clone the repository
 
 ```bash
-git clone https://github.com/<username>/ai-os.git
+git clone https://github.com/dhaka-deepak/ai-os.git
 ```
 
 Start Ollama
